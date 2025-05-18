@@ -1,0 +1,4 @@
+**/*/Makefile linguist-documentation
+**/*/.Makefile linguist-documentation
+**/*/.cpp linguist-documentation
+**/*/.c linguist-documentation

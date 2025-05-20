@@ -1,4 +1,6 @@
 **/*/Makefile linguist-documentation
 **/*/.Makefile linguist-documentation
 **/*/.cpp linguist-documentation
+**/*/.hpp linguist-documentation
 **/*/.c linguist-documentation
+**/*/.h linguist-documentation
